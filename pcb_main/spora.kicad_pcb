@@ -2169,7 +2169,7 @@
     (effects (font (size 0.9 0.9) (thickness 0.125)))
   )
   (dimension 18.6 (width 0.3) (layer Dwgs.User)
-    (gr_text "18,600 mm" (at 66.5 65.9 270) (layer Dwgs.User)
+    (gr_text "18,600 mm" (at 66.5 65.9 270) (layer Dwgs.User) (tstamp 64619CC6)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (feature1 (pts (xy 88.85 75.2) (xy 65.15 75.2)))
